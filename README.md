@@ -2,7 +2,8 @@
 - 👀 I’m interested in Machine Learning, Deep learning, AI and programming languages.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Email: dulhanperera200110@gmail.com
+                      
 
 <!---
 DulhanPerera/DulhanPerera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

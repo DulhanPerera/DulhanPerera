@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me Email: dulhanperera200110@gmail.com
+                      Linkedin: https://www.linkedin.com/in/dulhan-perera-672792218/
                       
 
 <!---

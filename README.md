@@ -5,6 +5,9 @@
 - 📫 How to reach me Email: dulhanperera200110@gmail.com
                       Linkedin: https://www.linkedin.com/in/dulhan-perera-672792218/
                       
+                      
+                      <p><img align="right"alt="gif" src="https://github.com/DulhanPerera/GitStats/blob/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.gif" width="500" height="320"/></p>
+                      
 <img align="left" alt="DulhanPerera's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DulhanPerera&show_icons=true&hide_border=true" />
 
 <!---

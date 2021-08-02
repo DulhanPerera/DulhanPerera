@@ -9,10 +9,7 @@
                       
                       
                       
-                      
-                      ![booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster](https://user-images.githubusercontent.com/88225145/127800760-26ce15f3-91c5-46cc-8a5b-925d604ff2eb.gif)
-
-                      
+ <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fstudiopixel.in%2Fcareers%2F18a4949fc9c8067172d3b96e302e7097%2F&psig=AOvVaw1y7oC19wvMKPT6JT_ULaxI&ust=1627961281561000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKC6jMuykfICFQAAAAAdAAAAABA5"/>
                       
                       
                       

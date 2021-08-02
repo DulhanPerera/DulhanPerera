@@ -8,6 +8,9 @@
 
 
 <img align="left" alt="DulhanPerera's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DulhanPerera&show_icons=true&hide_border=true" />
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=DulhanPerera&layout=compact)](https://github.com/DulhanPerera/github-readme-stats)
+
 <!---
 DulhanPerera/DulhanPerera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

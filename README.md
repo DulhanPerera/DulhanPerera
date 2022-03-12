@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DulhanPerera
-- 👀 I’m interested in Machine Learning, Deep learning, AI and programming languages.
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in building new apps, Machine Learning, Deep learning, AI and programming languages.
+- 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me Email: dulhanperera200110@gmail.com
                       Linkedin: https://www.linkedin.com/in/dulhan-perera-672792218/
